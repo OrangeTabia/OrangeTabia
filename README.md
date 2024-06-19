@@ -1,8 +1,8 @@
 ## Howdy! 🤠 
 My name is Tabia Ye and I am a full stack software engineer. I am a recent graduate of App Academy's 24-week, full-time software engineering program. Before my web development journey, I spent 6 years in athletic adminstration between the youth level and the collegiate level. 
 
-📫 Reach me at: tabiaye@gmail.com
-📁 Portfolio: [https://orangetabia.github.io/](https://orangetabia.github.io/)
+- 📫 Reach me at: tabiaye@gmail.com
+- 📁 Portfolio: [https://orangetabia.github.io/](https://orangetabia.github.io/)
 
 ## My Tech Stack:
 
