@@ -1,14 +1,14 @@
 
 ![evening-journey002](https://github.com/OrangeTabia/OrangeTabia/assets/131227932/605d8d87-0d18-4b3f-927a-8a215da7c46c)
 
-<br/>
+
 ## Howdy! 🤠 
 My name is Tabia Ye and I am a full stack software engineer. I am a recent graduate of App Academy's 24-week, full-time software engineering program. Before my web development journey, I spent 6 years in athletic adminstration between the youth level and the collegiate level. I am excited to begin my new career as a SWE! 
 
 - Feel free to reach out! tabiaye@gmail.com
 - Portfolio: https://orangetabia.github.io/
+  
 
-<br/>
 ## My Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,8 @@ My name is Tabia Ye and I am a full stack software engineer. I am a recent gradu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<br/>
+
+
 ## Let's Connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tabiaye/)
 
