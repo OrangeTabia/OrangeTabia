@@ -16,7 +16,7 @@ My name is Tabia Ye and I am a full stack software engineer. I am a recent gradu
 
 
 ## Let's Connect!
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([https://link-to-your-URL/](https://www.linkedin.com/in/tabiaye/)
 
 <!--
 **OrangeTabia/OrangeTabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
