@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 🤠 My name is Tabia Ye and I am a software engineer! 
 
 <!--
 **OrangeTabia/OrangeTabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
