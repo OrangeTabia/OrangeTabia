@@ -2,7 +2,8 @@
 My name is Tabia Ye and I am a full stack software engineer. I am a recent graduate of App Academy's 24-week, full-time software engineering program. Before my web development journey, I spent 6 years in athletic adminstration between the youth level and the collegiate level. 
 
 ## My Tech Stack
-![Static Badge](https://img.shields.io/badge/python-black)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+
 
 
 ## Let's Connect!
