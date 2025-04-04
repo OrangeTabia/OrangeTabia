@@ -3,7 +3,7 @@
 
 
 ## Howdy! 🤠 
-My name is Tabia Ye and I am a full stack software engineer. I am a recent graduate of App Academy's 24-week, full-time software engineering program. Before my web development journey, I spent 6 years in athletic administration between the youth level and the collegiate level. I am excited to begin my new career as a SWE! 
+I recently completed a 6-month internship with the Memphis Grizzlies as a full stack software developer. Prior to this role, I gained my foundational knowledge of software development at App Academy's 24-week, full-time software engineering program. Before my technial journey, I spent 6 years in athletic administration between the youth level and the collegiate level. I am excited to blend my professional skills from my previous career and my newly developed technical skills to my next role!
 
 - Feel free to reach out! tabiaye@gmail.com
 - Portfolio: https://orangetabia.github.io/
